@@ -10,9 +10,9 @@ proyectos y mis intereses.
 * [Intereses](#intereses)
 * 
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
+* Nombre: [Jairo David Rodriguez Ortiz]
+* Ocupación: [Estudiante de Ingeniería en Computación]
+* Lugar de residencia: [Massachusetts]
 * Sitio web: [Tu sitio web]
 * 
 ## Proyectos
