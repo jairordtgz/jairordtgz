@@ -2,7 +2,7 @@
 
 Soy Jairo Rodriguez, estudiante de Ingeniería en Computación. Este es mi repositorio personal donde comparto información sobre mí, mis proyectos y mis intereses. Si tienes alguna duda o comentario, no dudes en contactarme.
 
-## Índice
+## ✅ Índice
 - [Información Personal](#información-personal)
 - [Proyectos](#proyectos)
 - [Intereses](#intereses)
@@ -10,7 +10,7 @@ Soy Jairo Rodriguez, estudiante de Ingeniería en Computación. Este es mi repos
 
 ---
 
-## Información Personal
+## 👤 Información Personal
 
 - **Nombre:** Jairo David Rodríguez Ortiz
 - **Ocupación:** Estudiante de Ingeniería en Computación
@@ -23,7 +23,7 @@ Soy Jairo Rodriguez, estudiante de Ingeniería en Computación. Este es mi repos
 
 ---
 
-## Proyectos
+## 🔭 Proyectos
 
 A continuación, te presento algunos de mis proyectos más relevantes. Puedes encontrar el código y más detalles en los enlaces correspondientes:
 
@@ -61,7 +61,7 @@ A continuación, te presento algunos de mis proyectos más relevantes. Puedes en
 
 ---
 
-## Intereses
+## 👀 Intereses
 
 En mi tiempo libre, me gusta explorar diferentes áreas dentro de la informática y la tecnología. Algunos de mis principales intereses son:
 
@@ -72,7 +72,7 @@ En mi tiempo libre, me gusta explorar diferentes áreas dentro de la informátic
   
 ---
 
-## Contactar
+## ✉️ Contactar
 
 Si deseas contactarme para hablar sobre proyectos, colaboraciones o cualquier otra consulta, puedes enviarme un correo electrónico a:
 
