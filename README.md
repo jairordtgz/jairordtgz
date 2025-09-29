@@ -15,8 +15,8 @@ Soy Jairo Rodriguez, estudiante de Ingeniería en Computación. Este es mi repos
 - **Nombre:** Jairo David Rodríguez Ortiz
 - **Ocupación:** Estudiante de Ingeniería en Computación
 - **Ubicación:** Massachusetts, USA
-- **Correo institucional:** [jairo.d.rodriguez@miuniversidad.edu](mailto:jairo.d.rodriguez@miuniversidad.edu)
-- **Sitio web:** [www.jairodev.com](http://www.jairodev.com)
+- **Correo institucional:** [jairorti@espol.edu.ec](mailto:jairorti@espol.edu.ec)
+- **Sitio web:** [https://jairordtgz.github.io/jairordtgz/](https://jairordtgz.github.io/jairordtgz/)
 - **Redes sociales:**
   - [LinkedIn](https://www.linkedin.com/in/jairo-david-rodriguez)
   - [GitHub](https://github.com/jairodev)
