@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 # Mi sitio personal
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
