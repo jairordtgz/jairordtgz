@@ -77,6 +77,8 @@ A continuación, te presento algunos de mis proyectos más relevantes. Puedes en
 </p>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jairordtgz&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairordtgz&theme=algolia&layout=compact" alt="jaypavasiya" /></p>
+
 
 ## 👀 Intereses
 
