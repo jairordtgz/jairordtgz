@@ -5,8 +5,6 @@
 </h1>
 Soy Jairo Rodriguez, estudiante de Ingeniería en Computación. Este es mi repositorio personal donde comparto información sobre mí, mis proyectos y mis intereses. Si tienes alguna duda o comentario, no dudes en contactarme.
 
----
-
 ## 👤 Información Personal
 
 - **Nombre:** Jairo David Rodríguez Ortiz
