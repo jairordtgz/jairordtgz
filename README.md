@@ -96,6 +96,11 @@ En mi tiempo libre, me gusta explorar diferentes áreas dentro de la informátic
     alt="jairordtgz" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jairordtgz/jairordtgz/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+
 ## ✉️ Contactar
 <p align="center">
 	<a href="https://www.linkedin.com/in/imakash3011/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
