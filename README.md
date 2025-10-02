@@ -5,7 +5,8 @@
 
 </h1>
 Soy Jairo Rodriguez, estudiante de Ingeniería en Computación. Este es mi repositorio personal donde comparto información sobre mí, mis proyectos y mis intereses. Si tienes alguna duda o comentario, no dudes en contactarme.
-
+<br/>
+<br/>
 <img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" />
 <h2>⚡️ Alguns fatos rápidos</h2>
 <ul>
