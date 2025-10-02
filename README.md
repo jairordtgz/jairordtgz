@@ -75,7 +75,7 @@ A continuación, te presento algunos de mis proyectos más relevantes. Puedes en
     <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=jairordtgz&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
     /> <br>
 </p>
-![estadisticas](https://github-readme-stats.vercel.app/api/top-langs/?username=jairordtgz&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jairordtgz&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## 👀 Intereses
