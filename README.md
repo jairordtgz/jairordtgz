@@ -93,11 +93,10 @@ En mi tiempo libre, me gusta explorar diferentes áreas dentro de la informátic
 ---
 
 ## ✉️ Contactar
-
-Si deseas contactarme para hablar sobre proyectos, colaboraciones o cualquier otra consulta, puedes enviarme un correo electrónico a:
-
-- **Correo institucional:** [jairo.d.rodriguez@miuniversidad.edu](mailto:jairo.d.rodriguez@miuniversidad.edu)
-- **LinkedIn:** [Conectar conmigo](https://www.linkedin.com/in/jairo-david-rodriguez)
+<p align="center">
+	<a href="https://www.linkedin.com/in/imakash3011/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.instagram.com/imakash3011/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+</p>
 
 ¡Gracias por visitar mi repositorio!
 
