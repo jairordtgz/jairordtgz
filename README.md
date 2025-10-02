@@ -4,17 +4,6 @@
 </a>
 </h1>
 Soy Jairo Rodriguez, estudiante de Ingeniería en Computación. Este es mi repositorio personal donde comparto información sobre mí, mis proyectos y mis intereses. Si tienes alguna duda o comentario, no dudes en contactarme.
-## 
-<img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" />
-<h2>⚡️ Alguns fatos rápidos</h2>
-<ul>
-    <li>🔭 Atualmente estou trabalhando na aréa de Logística.</li>
-    <li>👨‍💻 A maioria dos meus projetos está disponível no <a href="https://github.com/mazarafa">Github</a></li>
-    <li>💬 Passo o tempo codificando e criando coisas novas, especialmente quando elas podem ajudar a mim ou a outro ser humano de alguma forma.</li>
-    <li> 🔎 Pesquiso sobre Computação Musical e o seu processamento de audio.</li>
-    <li>📙Confira meu <a href="https://mazarafa.github.io/">currículo</a>.</li>
-    <li>🎉 Curiosidade: Sou DJ nas horas vagas!</li>
-</ul>
 
 ---
 
