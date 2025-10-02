@@ -91,6 +91,10 @@ En mi tiempo libre, me gusta explorar diferentes áreas dentro de la informátic
 - **Blockchain y criptomonedas:** Estoy explorando cómo blockchain puede transformar varias industrias.
   
 ---
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/jairordtgz/jairordtgz/main/resources/img/github-contribution-grid-snake.svg"
+    alt="jairordtgz" />
+</p>
 
 ## ✉️ Contactar
 <p align="center">
