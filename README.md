@@ -98,9 +98,9 @@ Si deseas contactarme para hablar sobre proyectos, colaboraciones o cualquier ot
 ¡Gracias por visitar mi repositorio!
 
 ---
+Credits: [manumanoj0010](https://github.com/jairordtgz)
 
-**Licencia:**
-Este repositorio está bajo la licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
+Last Edited on: 15/01/2021
 
 
 <!--
