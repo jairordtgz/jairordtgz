@@ -63,6 +63,7 @@ A continuación, te presento algunos de mis proyectos más relevantes. Puedes en
   ![Captura de pantalla del proyecto](https://github.com/jairodev/blog-personal/screenshot.png)
 
 ---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jairordtgz&show_icons=true&theme=dracula)
 
 ## 👀 Intereses
 
