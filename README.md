@@ -98,7 +98,7 @@ Si deseas contactarme para hablar sobre proyectos, colaboraciones o cualquier ot
 ¡Gracias por visitar mi repositorio!
 
 ---
-Credits: [manumanoj0010](https://github.com/jairordtgz)
+Elaborado por: [Jairo Rodriguez](https://github.com/jairordtgz)
 
 Last Edited on: 15/01/2021
 
