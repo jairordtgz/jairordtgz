@@ -96,9 +96,9 @@ En mi tiempo libre, me gusta explorar diferentes áreas dentro de la informátic
     alt="jairordtgz" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jairordtgz/jairordtgz/main/dist/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
+
+![snake gif](https://github.com/jairordtgz/jairordtgz/blob/output/github-snake-dark.svg)
+
 
 
 ## ✉️ Contactar
