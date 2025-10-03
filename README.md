@@ -3,19 +3,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FFFF00&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+there+!;+I'm+Jairo+;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
 </a>
 
+<p align="center">
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20there!;I'm%20Jairo;Welcome%toB%my%20GitHub%20profile&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
+
+
 </h1>
-Soy Jairo Rodriguez, estudiante de Ingeniería en Computación. Este es mi repositorio personal donde comparto información sobre mí, mis proyectos y mis intereses. Si tienes alguna duda o comentario, no dudes en contactarme.
 <br/>
 <br/>
 <img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" />
-<h2>⚡️ Alguns fatos rápidos</h2>
+<h2>⚡️ Alguna información breve: </h2>
 <ul>
-    <li>🔭 Atualmente estou trabalhando na aréa de Logística.</li>
+    <li>🔭 Actualmente estudio Ingeniería en Computación .</li>
     <li>👨‍💻 A maioria dos meus projetos está disponível no <a href="https://github.com/mazarafa">Github</a></li>
     <li>💬 Passo o tempo codificando e criando coisas novas, especialmente quando elas podem ajudar a mim ou a outro ser humano de alguma forma.</li>
     <li> 🔎 Pesquiso sobre Computação Musical e o seu processamento de audio.</li>
     <li>📙Confira meu <a href="https://mazarafa.github.io/">currículo</a>.</li>
-    <li>🎉 Curiosidade: Sou DJ nas horas vagas!</li>
+    <li>🎉 Dato curioso: Me hace feliz escuchar/bailar salsa y merengue</li>
 </ul>
 
 ## 👤 Información Personal
