@@ -4,7 +4,7 @@
 </a>
 
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20there!;I'm%20Jairo;Welcome%toB%my%20GitHub%20profile&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20there!;I'm%20Jairo;Welcome%20toB%20my%20GitHub%20profile%20&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 
