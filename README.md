@@ -2,19 +2,15 @@
 <p align="center">
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20there!;I'm%20Jairo;Welcome%20to%20my%20GitHub%20profile%20&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
-
-
 </h1>
-<br/>
-<br/>
 <img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" />
 <h2>⚡️ Alguna información breve: </h2>
 <ul>
-    <li>🔭 Actualmente estudio Ingeniería en Computación .</li>
-    <li>👨‍💻 A maioria dos meus projetos está disponível no <a href="https://github.com/mazarafa">Github</a></li>
-    <li>💬 Passo o tempo codificando e criando coisas novas, especialmente quando elas podem ajudar a mim ou a outro ser humano de alguma forma.</li>
-    <li> 🔎 Pesquiso sobre Computação Musical e o seu processamento de audio.</li>
-    <li>📙Confira meu <a href="https://mazarafa.github.io/">currículo</a>.</li>
+    <li>🔭 Mi nombre es Jairo David Rodriguez Ortiz. </li>
+    <li>👨‍💻 Actualmente estudio Ingeniería en Computación en ESPOL </li>
+    <li>💬 Invierto mi tiempo en mejorar academica y profesionalmente, participando en proyectos de Desarrollo Web y Prototipado usando UX/UI.</li>
+    <li> 🔎 Me gusta asistir a eventos de la comunidad Tech, con visión para ser ponente en el futuro. </li>
+    <li>🦎 Soy miembro activo del Club Estudiantil KOKOA</li>
     <li>🎉 Dato curioso: Me hace feliz escuchar/bailar salsa y merengue</li>
 </ul>
 
@@ -22,7 +18,7 @@
 
 - **Nombre:** Jairo David Rodríguez Ortiz
 - **Ocupación:** Estudiante de Ingeniería en Computación
-- **Ubicación:** Massachusetts, USA
+- **Ubicación:** Guayaquil-Ecuador
 - **Correo institucional:** [jairorti@espol.edu.ec](mailto:jairorti@espol.edu.ec)
 - **Sitio web:** [https://jairordtgz.github.io/jairordtgz/](https://jairordtgz.github.io/jairordtgz/)
 - **Redes sociales:**
