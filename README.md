@@ -1,8 +1,4 @@
 <h1 align = "center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FFFF00&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+there+!;+I'm+Jairo+;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
-</a>
-
 <p align="center">
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20there!;I'm%20Jairo;Welcome%20to%20my%20GitHub%20profile%20&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
