@@ -11,7 +11,7 @@
     <li>💬 Invierto mi tiempo en mejorar academica y profesionalmente, participando en proyectos de Desarrollo Web y Prototipado usando UX/UI.</li>
     <li> 🔎 Me gusta asistir a eventos de la comunidad Tech, con visión para ser ponente en el futuro. </li>
     <li>🦎 Soy miembro activo del Club Estudiantil KOKOA</li>
-    <li>🎉 Dato curioso: Me hace feliz escuchar/bailar salsa y merengue</li>
+    <li>🎉 Dato curioso: Me pone feliz escuchar/bailar salsa y merengue</li>
 </ul>
 
 ## 👤 Información Personal
