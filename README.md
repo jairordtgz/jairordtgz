@@ -21,20 +21,14 @@
 - **Correo institucional:** [jairorti@espol.edu.ec](mailto:jairorti@espol.edu.ec)
 - **Sitio web:** [https://jairordtgz.github.io/jairordtgz/](https://jairordtgz.github.io/jairordtgz/)
 
+## Tech Stack
+
+
 ## 🔭 Proyectos
 
 A continuación, te presento algunos de mis proyectos más relevantes. Puedes encontrar el código y más detalles en los enlaces correspondientes:
 
-### 1. **Proyecto 1: [Sistema de Gestión de Inventarios](https://github.com/jairodev/sistema-inventarios)**
-
-- **Descripción:** Sistema para gestionar inventarios en empresas, con funciones de agregar, editar, eliminar y listar productos.
-- **Tecnologías utilizadas:** 
-  - **Backend:** Node.js, Express
-  - **Frontend:** React.js, Bootstrap
-  - **Base de datos:** MongoDB
-- **Estado:** En desarrollo
-- **Captura de pantalla:**
-  ![Captura de pantalla del proyecto](https://github.com/jairodev/sistema-inventarios/screenshot.png)
+<a href="https://github.com/jairordtgz/ProyectoAdmisionesKokoa.git"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jairordtgz&repo=ProyectoAdmisionesKokoa" width=400> </a> 
   
 ### 2. **Proyecto 2: [Aplicación de Clima](https://github.com/jairodev/app-clima)**
 
