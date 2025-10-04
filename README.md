@@ -28,7 +28,7 @@
 
 A continuación, te presento algunos de mis proyectos más relevantes. Puedes encontrar el código y más detalles en los enlaces correspondientes:
 
-<a href="https://github.com/jairordtgz/ProyectoAdmisionesKokoa.git"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jairordtgz&repo=ProyectoAdmisionesKokoa" width=400> </a> 
+<a href="https://github.com/jairordtgz/ProyectoAdmisionesKokoa.git"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jairordtgz&repo=ProyectoAdmisionesKokoa&v=2" width=400> </a> 
   
 ### 2. **Proyecto 2: [Aplicación de Clima](https://github.com/jairodev/app-clima)**
 
