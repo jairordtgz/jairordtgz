@@ -6,7 +6,6 @@
 <img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" />
 <h2>⚡️ Alguna información breve: </h2>
 <ul>
-    <li>🔭 Mi nombre es Jairo David Rodriguez Ortiz. </li>
     <li>👨‍💻 Actualmente estudio Ingeniería en Computación en ESPOL </li>
     <li>💬 Invierto mi tiempo en mejorar academica y profesionalmente, participando en proyectos de Desarrollo Web y Prototipado usando UX/UI.</li>
     <li> 🔎 Me gusta asistir a eventos de la comunidad Tech, con visión para ser ponente en el futuro. </li>
@@ -21,11 +20,6 @@
 - **Ubicación:** Guayaquil-Ecuador
 - **Correo institucional:** [jairorti@espol.edu.ec](mailto:jairorti@espol.edu.ec)
 - **Sitio web:** [https://jairordtgz.github.io/jairordtgz/](https://jairordtgz.github.io/jairordtgz/)
-- **Redes sociales:**
-  - [LinkedIn](https://www.linkedin.com/in/jairo-david-rodriguez)
-  - [GitHub](https://github.com/jairodev)
-
----
 
 ## 🔭 Proyectos
 
