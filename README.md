@@ -33,7 +33,7 @@ A continuación, te presento algunos de mis proyectos más relevantes. Puedes en
 <a href="https://github.com/jairordtgz/data-structures-PAO-2-2024.git"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jairordtgz&repo=data-structures-PAO-2-2024&v=2&theme=dracula" width=400> </a>
 
 ---
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairordtgz&theme=algolia&layout=compact" alt="jaypavasiya" /></p> <br/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairordtgz&theme=dracula&layout=compact" alt="jaypavasiya" /></p> <br/>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairordtgz&theme=chartreuse-dark&layout=compact" alt="jaypavasiya" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairordtgz&theme=imanmalekian31&layout=compact" alt="jaypavasiya" /></p>
 
