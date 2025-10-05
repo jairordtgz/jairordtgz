@@ -64,19 +64,9 @@ A continuación, te presento algunos de mis proyectos más relevantes. Puedes en
 <a href="https://github.com/jairordtgz/data-structures-PAO-2-2024.git"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jairordtgz&repo=data-structures-PAO-2-2024&v=2&theme=dracula" width=400> </a>
 
 ---
+## Estadísticas en GitHub
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairordtgz&theme=dracula&layout=compact" alt="jaypavasiya" /></p> <br/>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairordtgz&theme=chartreuse-dark&layout=compact" alt="jaypavasiya" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairordtgz&theme=imanmalekian31&layout=compact" alt="jaypavasiya" /></p>
 
-## 👀 Intereses
-
-En mi tiempo libre, me gusta explorar diferentes áreas dentro de la informática y la tecnología. Algunos de mis principales intereses son:
-
-- **Inteligencia Artificial:** Me apasiona el aprendizaje automático y la visión por computadora.
-- **Desarrollo web:** Siempre estoy aprendiendo nuevas tecnologías y frameworks para mejorar mis habilidades de desarrollo.
-- **Ciberseguridad:** Interesado en la protección de sistemas y datos.
-- **Blockchain y criptomonedas:** Estoy explorando cómo blockchain puede transformar varias industrias.
-  
 ---
 <p align="center">
   <img  src="https://raw.githubusercontent.com/jairordtgz/jairordtgz/main/resources/img/github-contribution-grid-snake.svg"
