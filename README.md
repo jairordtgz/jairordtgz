@@ -3,7 +3,7 @@
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20there!;I'm%20Jairo;Welcome%20to%20my%20GitHub%20profile%20&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 </h1>
-<img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="450" />
+<img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="400" />
 <h2>⚡️ Alguna información breve: </h2>
 <ul>
     <li>👨‍💻 Actualmente estudio Ingeniería en Computación en ESPOL </li>
