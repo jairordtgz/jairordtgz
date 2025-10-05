@@ -33,15 +33,6 @@ A continuación, te presento algunos de mis proyectos más relevantes. Puedes en
 <a href="https://github.com/jairordtgz/data-structures-PAO-2-2024.git"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jairordtgz&repo=data-structures-PAO-2-2024&v=2&theme=dracula" width=400> </a>
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jairordtgz&show_icons=true&theme=dracula)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jairordtgz&theme=dracula)](https://git.io/streak-stats)
-<br/>
-<p align="center">
-    <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=jairordtgz&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
-    /> <br>
-</p>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jairordtgz&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairordtgz&theme=algolia&layout=compact" alt="jaypavasiya" /></p> <br/>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairordtgz&theme=chartreuse-dark&layout=compact" alt="jaypavasiya" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairordtgz&theme=imanmalekian31&layout=compact" alt="jaypavasiya" /></p>
