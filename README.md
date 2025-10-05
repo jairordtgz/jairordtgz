@@ -32,27 +32,6 @@ A continuación, te presento algunos de mis proyectos más relevantes. Puedes en
 <a href="https://github.com/leno-mpm/Proyecto-Estad-stica.git"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=leno-mpm&repo=Proyecto-Estad-stica&v=2" width=400> </a> 
 <a href="https://github.com/jairordtgz/data-structures-PAO-2-2024.git"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jairordtgz&repo=data-structures-PAO-2-2024&v=2" width=400> </a>
 
-### 2. **Proyecto 2: [Aplicación de Clima](https://github.com/jairodev/app-clima)**
-
-- **Descripción:** Aplicación web para consultar el clima en tiempo real utilizando la API de OpenWeather.
-- **Tecnologías utilizadas:** 
-  - **Frontend:** HTML, CSS, JavaScript
-  - **API:** OpenWeatherMap
-- **Estado:** Terminado
-- **Captura de pantalla:**
-  ![Captura de pantalla del proyecto](https://github.com/jairodev/app-clima/screenshot.png)
-
-### 3. **Proyecto 3: [Blog Personal](https://github.com/jairodev/blog-personal)**
-
-- **Descripción:** Blog personal para compartir mis pensamientos sobre tecnología, programación y ciencia.
-- **Tecnologías utilizadas:** 
-  - **Backend:** Django
-  - **Frontend:** HTML, CSS, JavaScript
-  - **Base de datos:** SQLite
-- **Estado:** Terminado
-- **Captura de pantalla:**
-  ![Captura de pantalla del proyecto](https://github.com/jairodev/blog-personal/screenshot.png)
-
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jairordtgz&show_icons=true&theme=dracula)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jairordtgz&theme=dracula)](https://git.io/streak-stats)
