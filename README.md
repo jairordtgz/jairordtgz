@@ -4,7 +4,7 @@
 </p>
 </h1>
 <img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="400" />
-<h2>⚡️ Alguna información breve: </h2>
+<h2>⚡️ Algunos datos breve: </h2>
 <ul>
     <li>👨‍💻 Actualmente estudio Ingeniería en Computación en ESPOL </li>
     <li>💬 Invierto mi tiempo en mejorar academica y profesionalmente, participando en proyectos de Desarrollo Web y Prototipado usando UX/UI.</li>
@@ -46,7 +46,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux,androidstudio" />
   </a>
 </p>
 
