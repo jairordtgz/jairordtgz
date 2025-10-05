@@ -30,6 +30,8 @@ A continuación, te presento algunos de mis proyectos más relevantes. Puedes en
 
 <a href="https://github.com/jairordtgz/ProyectoAdmisionesKokoa.git"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jairordtgz&repo=ProyectoAdmisionesKokoa&v=2" width=400> </a> 
 <a href="https://github.com/leno-mpm/Proyecto-Estad-stica.git"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=leno-mpm&repo=Proyecto-Estad-stica&v=2" width=400> </a> 
+<a href="https://github.com/jairordtgz/data-structures-PAO-2-2024.git"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jairordtgz&repo=data-structures-PAO-2-2024&v=2" width=400> </a>
+
 ### 2. **Proyecto 2: [Aplicación de Clima](https://github.com/jairodev/app-clima)**
 
 - **Descripción:** Aplicación web para consultar el clima en tiempo real utilizando la API de OpenWeather.
