@@ -25,28 +25,28 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,py,fastapi,express,c,rust" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,bootstrap,html,css" />
   </a>
 </p>
 
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=bash,git,github,figma,vscode,linux,ubuntu,debian,androidstudio,arduino,r,firebase" />
   </a>
 </p>
 
@@ -72,11 +72,6 @@ A continuación, te presento algunos de mis proyectos más relevantes. Puedes en
   </a> &nbsp;&nbsp;
 
 ---
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/jairordtgz/jairordtgz/main/resources/img/github-contribution-grid-snake.svg"
-    alt="jairordtgz" />
-</p>
-
 
 ![snake gif](https://github.com/jairordtgz/jairordtgz/blob/output/github-snake-dark.svg)
 
