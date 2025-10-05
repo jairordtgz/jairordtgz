@@ -67,6 +67,10 @@ A continuación, te presento algunos de mis proyectos más relevantes. Puedes en
 ## Estadísticas en GitHub
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairordtgz&theme=dracula&layout=compact" alt="jaypavasiya" /></p> <br/>
 
+  <a href="https://profile-summary-for-github.herokuapp.com/user/jairordtgz" target="_blank">
+    <img align="center" alt="TienHuynh-TN | GitHub" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
+
 ---
 <p align="center">
   <img  src="https://raw.githubusercontent.com/jairordtgz/jairordtgz/main/resources/img/github-contribution-grid-snake.svg"
