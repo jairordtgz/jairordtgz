@@ -22,6 +22,10 @@
 - **Sitio web:** [https://jairordtgz.github.io/jairordtgz/](https://jairordtgz.github.io/jairordtgz/)
 
 ## Tech Stack
+<p> Hola </p>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools 
+
 
   <a href="https://profile-summary-for-github.herokuapp.com/user/jairordtgz" target="_blank">
     <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
