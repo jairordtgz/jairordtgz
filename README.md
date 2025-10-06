@@ -4,7 +4,7 @@
 </p>
 </h1>
 <img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="400" />
-<h2>⚡️ Algunos datos breve: </h2>
+<h2>⚡️ Algunos datos breves: </h2>
 <ul>
     <li>👨‍💻 Actualmente estudio Ingeniería en Computación en ESPOL </li>
     <li>💬 Invierto mi tiempo en mejorar academica y profesionalmente, participando en proyectos de Desarrollo Web y Prototipado usando UX/UI.</li>
@@ -25,35 +25,30 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,py,fastapi,express,c,rust" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,js,py,fastapi,express,c,rust" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,bootstrap,html,css" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css" />
   </a>
 </p>
 
-- Database
+- Bases de datos
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
 
-- Tools
+- Herramientas
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,git,github,figma,vscode,linux,ubuntu,debian,androidstudio,arduino,r,firebase" />
   </a>
 </p>
-
-  <a href="https://profile-summary-for-github.herokuapp.com/user/jairordtgz" target="_blank">
-    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
-
 
 ## 🔭 Proyectos
 
@@ -67,9 +62,16 @@ A continuación, te presento algunos de mis proyectos más relevantes. Puedes en
 ## Estadísticas en GitHub
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairordtgz&theme=dracula&layout=compact" alt="jaypavasiya" /></p> <br/>
 
-  <a href="https://profile-summary-for-github.herokuapp.com/user/jairordtgz" target="_blank">
+  <a href="https://profile-summary-for-github.herokuapp.com/user/jairordtgz" target="_blank" align="center">
     <img align="center" alt="TienHuynh-TN | GitHub" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
+
+  <p align="center">
+  <a href="https://profile-summary-for-github.herokuapp.com/user/jairordtgz" target="_blank">
+    <img alt="TienHuynh-TN | GitHub" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a>
+</p>
+
 
 ---
 
