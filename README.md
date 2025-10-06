@@ -78,8 +78,8 @@ A continuación, te presento algunos de mis proyectos más relevantes. Puedes en
 
 ## ✉️ Contactar
 <p align="center">
-	<a href="https://www.linkedin.com/in/imakash3011/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://www.instagram.com/imakash3011/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a href="https://www.linkedin.com/in/jairo-rodríguez-ortiz-548049335"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.instagram.com/jairodrigtz/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 </p>
 
 ¡Gracias por visitar mi repositorio!
@@ -87,20 +87,4 @@ A continuación, te presento algunos de mis proyectos más relevantes. Puedes en
 ---
 Elaborado por: [Jairo Rodriguez](https://github.com/jairordtgz)
 
-Last Edited on: 15/01/2021
-
-
-<!--
-**jairordtgz/jairordtgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Última actualización: 06/10/2025
