@@ -62,13 +62,10 @@ A continuación, te presento algunos de mis proyectos más relevantes. Puedes en
 ## Estadísticas en GitHub
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairordtgz&theme=dracula&layout=compact" alt="jaypavasiya" /></p> <br/>
 
-  <a href="https://profile-summary-for-github.herokuapp.com/user/jairordtgz" target="_blank" align="center">
-    <img align="center" alt="TienHuynh-TN | GitHub" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
-
   <p align="center">
   <a href="https://profile-summary-for-github.herokuapp.com/user/jairordtgz" target="_blank">
-    <img alt="TienHuynh-TN | GitHub" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+    <img alt="TienHuynh-TN | GitHub" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+	  	  <p align="center"> Presioname!</p>
   </a>
 </p>
 
