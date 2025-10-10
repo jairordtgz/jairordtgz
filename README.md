@@ -56,7 +56,8 @@ A continuación, te presento algunos de mis proyectos más relevantes. Puedes en
 
 <a href="https://github.com/jairordtgz/ProyectoAdmisionesKokoa.git"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jairordtgz&repo=ProyectoAdmisionesKokoa&v=2&theme=dracula" width=400> </a> 
 <a href="https://github.com/leno-mpm/Proyecto-Estad-stica.git"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=leno-mpm&repo=Proyecto-Estad-stica&v=2&theme=dracula" width=400> </a> 
-<a href="https://github.com/jairordtgz/data-structures-PAO-2-2024.git"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jairordtgz&repo=data-structures-PAO-2-2024&v=2&theme=dracula" width=400> </a>
+<a href="https://github.com/jairordtgz/data-structures-PAO-2-2024.git"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jairordtgz&repo=data-structures-PAO-2-2024&v=2&theme=dracula" width=400>
+<a href="https://github.com/AngelPila/terra-watch-live.git"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngelPila&repo=terra-watch-live&v=2&theme=dracula" width=400></a>
 
 ---
 ## Estadísticas en GitHub
