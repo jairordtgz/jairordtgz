@@ -70,6 +70,10 @@ A continuación, te presento algunos de mis proyectos más relevantes. Puedes en
   </a>
 </p>
 
+## Estadísticas 📈
+![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jairordtgz&theme=tokyonight) 
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jairordtgz&theme=tokyonight)
+
 
 ---
 
