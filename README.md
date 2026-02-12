@@ -9,7 +9,7 @@
     <li>👨‍💻 Actualmente estudio Ingeniería en Computación en ESPOL </li>
     <li>💬 Invierto mi tiempo en mejorar academica y profesionalmente, participando en proyectos de Desarrollo Web y Prototipado usando UX/UI.</li>
     <li> 🔎 Me gusta asistir a eventos de la comunidad Tech, con visión para ser ponente en el futuro. </li>
-    <li>🦎 Soy miembro activo del Club Estudiantil KOKOA</li>
+    <li> 🐢🌎 Soy miembro activo del Club Estudiantil TAWS</li>
     <li>🎉 Dato curioso: Me pone feliz escuchar/bailar salsa y merengue</li>
 </ul>
 
@@ -19,13 +19,13 @@
 - **Ocupación:** Estudiante de Ingeniería en Computación
 - **Ubicación:** Guayaquil-Ecuador
 - **Correo institucional:** [jairorti@espol.edu.ec](mailto:jairorti@espol.edu.ec)
-- **Sitio web:** [https://jairordtgz.github.io/jairordtgz/](https://jairordtgz.github.io/jairordtgz/)
+- **Portafolio:** [https://jairodrigtz.vercel.app/](https://jairodrigtz.vercel.app/)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Tech Stack
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,js,typescript,py,fastapi,express,c,rust,svelte" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,js,typescript,py,fastapi,express,c,svelte" />
   </a>
 </p>
 
@@ -39,14 +39,14 @@
 - Bases de datos
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=mysql,firebase" />
   </a>
 </p>
 
 - Herramientas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,git,github,figma,vscode,linux,ubuntu,debian,androidstudio,arduino,r,firebase" />
+    <img src="https://skillicons.dev/icons?i=bash,git,github,figma,vscode,linux,ubuntu,debian,androidstudio,arduino,r" />
   </a>
 </p>
 
