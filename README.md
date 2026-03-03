@@ -54,12 +54,16 @@
 
 A continuación, te presento algunos de mis proyectos más relevantes. Puedes encontrar el código y más detalles en los enlaces correspondientes:
 
-<a href="https://github.com/jairordtgz/ProyectoAdmisionesKokoa.git"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jairordtgz&repo=ProyectoAdmisionesKokoa&v=2&theme=dracula" width=400> </a> 
-<a href="https://github.com/leno-mpm/Proyecto-Estad-stica.git"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=leno-mpm&repo=Proyecto-Estad-stica&v=2&theme=dracula" width=400> </a> 
-<a href="https://github.com/jairordtgz/data-structures-PAO-2-2024.git"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jairordtgz&repo=data-structures-PAO-2-2024&v=2&theme=dracula" width=400>
-<a href="https://github.com/AngelPila/terra-watch-live.git"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngelPila&repo=terra-watch-live&v=2&theme=dracula" width=400></a>
-<a href="https://github.com/mcpoveda2/VisuWallet.git"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mcpoveda2&repo=VisuWallet&v=2&theme=dracula" width=400></a>
+## 🗂️ Proyectos
 
+| Repositorio | Descripción | Tecnologías |
+|-------------|-------------|-------------|
+| [🐨 ProyectoAdmisionesKokoa](https://github.com/jairordtgz/ProyectoAdmisionesKokoa) | Sistema de admisiones para Kokoa | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) |
+| [📊 Proyecto-Estadística](https://github.com/leno-mpm/Proyecto-Estad-stica) | Análisis estadístico con visualizaciones | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [🌳 data-structures-PAO-2-2024](https://github.com/jairordtgz/data-structures-PAO-2-2024) | Estructuras de datos — PAO II 2024 | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| [🌍 terra-watch-live](https://github.com/AngelPila/terra-watch-live) | Monitoreo ambiental en tiempo real | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [💳 VisuWallet](https://github.com/mcpoveda2/VisuWallet) | Visualización de finanzas personales | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| [⚡ API-REST-MIGO](https://github.com/jairordtgz/API-REST-MIGO) | API REST para la aplicación MIGO | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | 
 ---
 ## Estadísticas en GitHub
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairordtgz&theme=dracula&layout=compact" alt="jaypavasiya" /></p> <br/>
