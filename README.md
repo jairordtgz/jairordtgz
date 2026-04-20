@@ -19,7 +19,7 @@
 - **Ocupación:** Estudiante de Ingeniería en Computación
 - **Ubicación:** Guayaquil-Ecuador
 - **Correo institucional:** [jairorti@espol.edu.ec](mailto:jairorti@espol.edu.ec)
-- **Portafolio:** [https://jairodrigtz.vercel.app/](https://jairodrigtz.vercel.app/)
+- **Portafolio:** [https://jairordtgz.vercel.app/](https://jairordtgz.vercel.app/)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Tech Stack
 - Backend
