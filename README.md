@@ -25,7 +25,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,js,typescript,py,fastapi,express,c,django" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,js,typescript,py,c,django" />
   </a>
 </p>
 
@@ -39,14 +39,14 @@
 - Bases de datos
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+    <img src="https://skillicons.dev/icons?i=mysql,firebase,postgresql" />
   </a>
 </p>
 
 - Herramientas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,git,github,figma,vscode,linux,ubuntu,debian,androidstudio,arduino,r" />
+    <img src="https://skillicons.dev/icons?i=bash,git,github,figma,vscode,linux,ubuntu,arduino,r" />
   </a>
 </p>
 
