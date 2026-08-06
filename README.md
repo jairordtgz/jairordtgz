@@ -39,7 +39,7 @@
 - Bases de datos
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,firebase,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mysql,firebase,postgresql,supabase" />
   </a>
 </p>
 
