@@ -25,7 +25,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,js,typescript,py,c,django,php,ruby" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,js,typescript,py,c,django,php,ruby,dart" />
   </a>
 </p>
 
